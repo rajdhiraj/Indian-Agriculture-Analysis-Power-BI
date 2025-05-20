@@ -55,9 +55,7 @@ This project successfully leveraged Power BI to analyze Indian agriculture data,
 
 ## Live Dashboard : 
    https://www.novypro.com/project/indian-agriculture-analysis-power-bi-1
-   
-## Presentation link : 
-  https://drive.google.com/file/d/1HUQuPQx_XzCIm2YfTZzGcfq8zZuITElz/view?usp=sharing
+
 
 
 
